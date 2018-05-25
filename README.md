@@ -22,4 +22,12 @@ In this project Jasmine is used to test the functionality of a feed reader and e
 #### New Feed Selection
 * ensuring that the content changes when a new feed is loaded
 
+## Installation
+
+clone the project by this command ``` $ git clone 'https://github.com/saher-elgendy/Udacity-feed-reader-testing'```.
+
+Load index.html using your browser and check  all 7 specs.
+
+You can check all tests by loading the file jasmine/spec/feedreader.js into your text editor.
+
 
