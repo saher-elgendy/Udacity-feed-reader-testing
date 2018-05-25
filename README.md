@@ -28,6 +28,6 @@ clone the project by this command ``` $ git clone 'https://github.com/saher-elge
 
 Load index.html using your browser and check  all 7 specs.
 
-You can check all tests by loading the file jasmine/spec/feedreader.js into your text editor.
+You can check all tests by loading the file ```jasmine/spec/feedreader.js``` into your text editor.
 
 
