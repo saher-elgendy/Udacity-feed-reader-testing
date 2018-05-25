@@ -2,7 +2,7 @@
 
 ## project overview
 
-In this project Jasmine is used to test the functionality of a feed reader and ensure it has no issues
+In this project Jasmine is used to test the functionality of a feed reader and ensure it has no issues, some tests are written agains an existing application and checking the functionality of some component of it
 
 
 ## Tests included
